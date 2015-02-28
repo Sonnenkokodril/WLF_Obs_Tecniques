@@ -1,10 +1,10 @@
 # WLF_Obs_Tecniques
 
-# Comparación Métodos de WL: Ver ventajas y desventajas de los métodos tradicionales y los cuales nosotros estamos proponiendo.
-## Método: ¿cómo medir flujos?
+## Comparación Métodos de WL: Ver ventajas y desventajas de los métodos tradicionales y los cuales nosotros estamos proponiendo.
+### Método: ¿cómo medir flujos?
 * Mascaras, Restas, sumas señal a ruido, curvas de luz
 
-## Muestra
+### Muestra
 * Flare Sintéticos:
 * Geometría del flare
 * Geometría de la región activa: Sintético y observacionales.
@@ -24,7 +24,7 @@
 
 > + ~3 flares de clase M1, M5 y X
 
-## Tipo de método
+### Tipo de método
 
 * Mascaras
 > + Círculos
@@ -36,7 +36,7 @@
 > + Logaritmo del Background (Kerr 2014)
 > + Número instrumental
 
-## Restas
+### Restas
 * Normales - Uno a uno
 * Promedio - restar imagen promedio a cada frame
 * Integración - Nuestro método
@@ -44,4 +44,4 @@
 * Sumar imágenes para ganar señal a ruido y restar una imagen promedio sin señal
 * Curva de luz por cada pixel- Medir el área bajo la curva pixel a pixel para aquellos valores sobre un cierto sigma
 
-## Calculo de la energía 
+### Calculo de la energía 
